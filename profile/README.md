@@ -2,7 +2,7 @@
 
 **Intelligence for your dependencies.**
 
-**Website: [DependencyIQ](https://dependencyiq.com)**
+**Website: [DependencyIQ](https://dependencyiq.com){:target="_blank" rel="noopener noreferrer"}**
 
 DependencyIQ helps development teams gain full visibility into their software supply chain — tracking dependencies, surfacing vulnerabilities, and delivering actionable intelligence to keep codebases healthy and secure.
 
